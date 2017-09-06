@@ -1,0 +1,7 @@
+What happens when you initialise a repository? Why do you need to do it?
+
+After a repository is initialise, it remains empty because no files have as yet been committed. Commits are stored in repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory is the original location which the files are stored. As the name suggests, the staging area is a location where files are placed into before commitments are made. The repository is the location where files have been committed.
