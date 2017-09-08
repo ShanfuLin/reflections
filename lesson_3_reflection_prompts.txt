@@ -1,0 +1,3 @@
+When would you want to create a remote depository rather than keeping all your work local?
+
+I have multiple work stations. Or I want to share my work with others on cloud so that they can work on it also. 
