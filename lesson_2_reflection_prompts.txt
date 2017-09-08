@@ -5,3 +5,10 @@ After a repository is initialise, it remains empty because no files have as yet 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The working directory is the original location which the files are stored. As the name suggests, the staging area is a location where files are placed into before commitments are made. The repository is the location where files have been committed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+During situations where I want to try out something but yet still want to keep my original code intact (in case something goes on later).
+
+How do the diagrams help you visualize the branch structure?
+
